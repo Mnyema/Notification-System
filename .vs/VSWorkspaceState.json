@@ -1,0 +1,10 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\resources",
+    "\\resources\\views",
+    "\\resources\\views\\User"
+  ],
+  "SelectedNode": "\\resources\\views\\User\\reminder-digest.blade.php",
+  "PreviewInSolutionExplorer": false
+}
